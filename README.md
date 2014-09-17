@@ -11,4 +11,4 @@ Decompiles a given apk and prints out information regarding potential apk packer
 
 ## Usage
 ### See what my testcode does
-ruby analyze.rb
+    $ ruby analyze.rb
